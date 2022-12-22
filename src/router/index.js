@@ -16,7 +16,7 @@ export default new Router({
     },
     {
       path: '/productlist',
-      name: 'PrdductList',
+      name: 'ProductList',
       component: ProductList
     },
     {
